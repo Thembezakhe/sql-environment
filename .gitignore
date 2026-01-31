@@ -1,0 +1,6 @@
+# Ignore all dotfiles and dotfolders
+.*
+
+# But DO NOT ignore these (explicitly keep them)
+!.gitignore
+!.github/
